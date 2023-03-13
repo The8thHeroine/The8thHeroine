@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @The8thHeroine
-- 👀 I’m interested in softeare development.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning the basics.
 - 💞️ I’m looking to collaborate on projects in the future.
 
